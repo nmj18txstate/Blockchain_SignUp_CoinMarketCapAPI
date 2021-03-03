@@ -1,2 +1,2 @@
 # Blockchain_SignUp_CoinMarketCapAPI
- Clone CoinMarketCap 
+ Clone CoinMarketCap with vanilla Javascript
